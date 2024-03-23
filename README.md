@@ -25,7 +25,6 @@ This project is a CRUD (Create, Read, Update, Delete) application that allows us
 - **Dependency Injection:** Used for managing dependencies and promoting loose coupling.
 - **xUnit:** Unit testing framework for writing and executing unit tests.
 - **Moq:** Mocking library for creating mock objects in unit tests.
-- **[Any other technologies or libraries you've used]**
 
 ## Installation
 
@@ -48,7 +47,7 @@ To run this project locally, follow these steps:
    ```
 
 4. **Explore the API:**
-   - Open a web browser and navigate to `https://localhost:5001/swagger` to view the Swagger UI.
+   - Open a web browser and navigate to `https://localhost:44331/swagger` to view the Swagger UI.
    - Use the Swagger UI to explore and test the API endpoints.
 
 ## Usage
